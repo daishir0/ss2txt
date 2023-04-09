@@ -2,6 +2,8 @@
 
 This tool is for extracting vertical Japanese text using the pytesseract library, which is a Python OCR library.
 
+※日本語のREADMEは下部にあります。
+
 ## Installation
 
 To use this tool, you need to install the following libraries:
